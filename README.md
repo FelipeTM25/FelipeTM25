@@ -42,10 +42,5 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FelipeTM25&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeTM25&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=FelipeTM25&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 </p>
