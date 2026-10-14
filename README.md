@@ -48,15 +48,15 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/FelipeTM25/FelipeTM25/output/activity-radar.svg" alt="Activity overview" width="420"/>
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FelipeTM25/FelipeTM25/output/github-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FelipeTM25/FelipeTM25/output/github-snake.svg"/>
     <img alt="Contribution snake" src="https://raw.githubusercontent.com/FelipeTM25/FelipeTM25/output/github-snake-dark.svg"/>
   </picture>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FelipeTM25/FelipeTM25/output/activity-radar.svg" alt="Activity overview" width="420"/>
 </p>
 
 ---
