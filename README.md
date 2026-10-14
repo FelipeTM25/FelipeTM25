@@ -45,7 +45,10 @@
   <img src="https://img.shields.io/github/followers/FelipeTM25?label=Followers&style=for-the-badge&logo=github&color=1f6feb&labelColor=0d1117" alt="Followers"/>
   <img src="https://img.shields.io/github/stars/FelipeTM25?label=Stars%20Earned&style=for-the-badge&logo=github&color=1f6feb&labelColor=0d1117" alt="Stars"/>
   <img src="https://img.shields.io/github/created-at/FelipeTM25?label=On%20GitHub%20Since&style=for-the-badge&logo=github&color=1f6feb&labelColor=0d1117" alt="Member since"/>
-  <img src="https://komarev.com/ghpvc/?username=FelipeTM25&label=Profile%20Views&style=for-the-badge&color=1f6feb&labelColor=0d1117" alt="Profile views"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/FelipeTM25/FelipeTM25/output/activity-radar.svg" alt="Activity overview" width="420"/>
 </p>
 
 <p align="center">
