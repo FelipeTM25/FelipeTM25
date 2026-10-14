@@ -39,8 +39,25 @@
 
 ---
 
-### GitHub Stats
+### GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=FelipeTM25&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+  <img src="https://img.shields.io/github/followers/FelipeTM25?label=Followers&style=for-the-badge&logo=github&color=1f6feb&labelColor=0d1117" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/FelipeTM25?label=Stars%20Earned&style=for-the-badge&logo=github&color=1f6feb&labelColor=0d1117" alt="Stars"/>
+  <img src="https://img.shields.io/github/created-at/FelipeTM25?label=On%20GitHub%20Since&style=for-the-badge&logo=github&color=1f6feb&labelColor=0d1117" alt="Member since"/>
+  <img src="https://komarev.com/ghpvc/?username=FelipeTM25&label=Profile%20Views&style=for-the-badge&color=1f6feb&labelColor=0d1117" alt="Profile views"/>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FelipeTM25/FelipeTM25/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FelipeTM25/FelipeTM25/output/github-snake.svg"/>
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/FelipeTM25/FelipeTM25/output/github-snake-dark.svg"/>
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  <sub>Open to connect — <a href="https://linkedin.com/in/fetorr/">let's talk on LinkedIn</a></sub>
 </p>
