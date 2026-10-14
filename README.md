@@ -42,11 +42,6 @@
 ### GitHub Activity
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/FelipeTM25?label=Followers&style=for-the-badge&logo=github&color=1f6feb&labelColor=0d1117" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/FelipeTM25?label=Stars%20Earned&style=for-the-badge&logo=github&color=1f6feb&labelColor=0d1117" alt="Stars"/>
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FelipeTM25/FelipeTM25/output/github-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FelipeTM25/FelipeTM25/output/github-snake.svg"/>
